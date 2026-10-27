@@ -1,0 +1,16 @@
+# Build output (tools\build.ps1)
+build/
+dist/
+
+# Per-machine state: a settings.ini here would turn the folder into a
+# portable copy, and the log and support file belong to whoever ran it.
+settings.ini
+*.log
+*.log.1
+support-info.txt
+
+# Local working notes and the old private PowerShell version
+_old/
+_BRIEF-*.md
+.claude-checkpoints/
+.claude/

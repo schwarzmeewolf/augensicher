@@ -1,0 +1,3 @@
+# Puts a "Sponsor" button on the repository page once the GitHub Sponsors
+# profile named here is approved. Until then GitHub shows nothing.
+github: schwarzmeewolf
